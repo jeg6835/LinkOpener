@@ -5,5 +5,5 @@ Before starting you may also have to install the selenium package (easily done w
 
 Project Premise: Very short and simple program that automatically goes through random screenshots links on https://prnt.sc/ .
 This website is an extremely popular tool that allows for easy screenshots and sharing of screenshots online. Many people
-that use this tool forget a link is created at moment of screen shot, thus possibly compromising the screenshot data. This
-tools allows one to navigate these photos at random and reveal some of this compromised screenshots for entertainment.
+that use this tool forget a link is created at moment of screen shot, thus possibly revealing interesting the screenshot data. This
+tools allows one to navigate these photos at random and reveal some of these screenshots for entertainment.
